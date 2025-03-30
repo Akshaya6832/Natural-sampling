@@ -1,9 +1,11 @@
-# Natural-Sampling
-Aim :
+## Exp-2: Natural-Sampling
+## Name: Akshaya Settu
+## Reg No.: 212223060014
+### Aim :
 
 To perform Natural Sampling of a continuous-time message signal using a pulse train and reconstruct the signal using a low-pass filter.
 
-Tools required :
+### Tools required :
 
 Python (Version 3.x)
 
@@ -14,9 +16,9 @@ Matplotlib Library (for plotting the waveforms)
 Scipy Library (for signal processing, including filtering)
 
 
-Program :
+### Program :
 
-#Natural sampling
+``` python
 
 import numpy as np
 
@@ -109,11 +111,9 @@ plt.grid(True)
 plt.tight_layout()
 
 plt.show()
+```
 
-
-
-
-Output Waveform :
+### Output Waveform :
 
 ![Screenshot 2025-03-24 132438](https://github.com/user-attachments/assets/09f2b66f-0c0f-464b-ba91-b603e95e63cc)
 
@@ -124,9 +124,7 @@ Output Waveform :
 ![Screenshot 2025-03-24 132718](https://github.com/user-attachments/assets/3c74c012-a634-4452-bd32-f4b0f2888f13)
 
 
-
-
-Results :
+### Results :
 
 1. Original Message Signal:
 
